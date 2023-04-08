@@ -5,8 +5,8 @@
 
 ![Google](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)&nbsp; : sbzkdl@gmail.com
 
-<a href="sbzkdl@gmail.com "><img src="https://img.shields.io/badge/-Naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>&nbsp;
-<a href="sbfpdl@naver.com "><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="mailto:sbfpdl@naver.com "><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>&nbsp;
+<a href="mailto:sbzkdl@gmail.com "><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 
 <br>
 
