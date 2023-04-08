@@ -9,11 +9,11 @@
 <br>
 
 ### 🛠️ &nbsp;Tech Stack
-- **Programming Languages**:
+- **Programming Languages** :
     
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 
-- **Development**:
+- **Development** :
 
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)&nbsp;
     ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
@@ -30,14 +30,14 @@
     ![amazonrds](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)&nbsp;
     ![amazonec2](https://img.shields.io/badge/Amazon%20EC2-569A31?style=flat&logo=amazonec2&logoColor=white)&nbsp;
     
-- **Database**:
+- **Database** :
 
     ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white)&nbsp;
     ![Mongodb](https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=Mongodb&logoColor=white)&nbsp;
     ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
     ![Postgresql](https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
     
-- **Other Tools**:
+- **Other Tools** :
 
     ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)&nbsp;
     ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
