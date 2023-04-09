@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%20Gunhoo%20Park&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome,%20My%20Github%20Profile&descAlignY=55&descAlign=75)
 
+### 🧑‍💻 &nbsp;My Profile
+
+<a href="https://tropical-swordfish-423.notion.site/5331a07a952548b4b64ee5b91e23913f"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/sbzkdl"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>&nbsp;
+
+<br>
+
 ### 📧 &nbsp;Contact me
 
 <a href="mailto:sbfpdl@naver.com "><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>&nbsp;
@@ -54,5 +61,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbzkdl&layout=compact)](https://github.com/sbzkdl/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbzkdl&show_icons=true&)
-
-
