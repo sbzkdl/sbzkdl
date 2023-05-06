@@ -34,8 +34,10 @@
     ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)&nbsp; \
     ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)&nbsp;
     ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)&nbsp;
-    ![amazonrds](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)&nbsp;
-    ![amazonec2](https://img.shields.io/badge/Amazon%20EC2-569A31?style=flat&logo=amazonec2&logoColor=white)&nbsp;
+    ![Amazonrds](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)&nbsp;
+    ![Amazonec2](https://img.shields.io/badge/Amazon%20EC2-569A31?style=flat&logo=amazonec2&logoColor=white)&nbsp;
+    ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)&nbsp;
+    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)&nbsp;
     
 - **Database** :
 
