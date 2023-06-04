@@ -68,6 +68,6 @@
 
 ### &nbsp;Coding Test Tier
 #### Bronze 🍂
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={sbzkdl})](https://solved.ac/{sbzkdl})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sbzkdl)](https://solved.ac/sbzkdl)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sbzkdl})](https://solved.ac/{sbzkdl})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sbzkdl)](https://solved.ac/sbzkdl)
