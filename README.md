@@ -66,7 +66,7 @@
 
 <br>
 
-### &nbsp;Coding Test Tier
+### 🏆 &nbsp;Coding Test Tier
 #### Bronze 🍂
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sbzkdl)](https://solved.ac/sbzkdl)
 
