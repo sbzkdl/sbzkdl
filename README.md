@@ -55,14 +55,6 @@
     ![visualstudiocode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)&nbsp; \
     ![googlecolab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)&nbsp;
     ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)&nbsp;
-    
-<br>
-
-### ⚙️ &nbsp;GitHub Analytics
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbzkdl&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbzkdl&layout=compact)](https://github.com/sbzkdl/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbzkdl&show_icons=true&)
 
 <br>
 
@@ -71,3 +63,11 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sbzkdl)](https://solved.ac/sbzkdl)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sbzkdl)](https://solved.ac/sbzkdl)
+
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbzkdl&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbzkdl&layout=compact)](https://github.com/sbzkdl/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbzkdl&show_icons=true&)
