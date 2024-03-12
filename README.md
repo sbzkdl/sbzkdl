@@ -24,11 +24,11 @@
 
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)&nbsp;
     ![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)&nbsp;
-    ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white)&nbsp; \
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)&nbsp;
+    ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white)&nbsp;
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)&nbsp;  \
     ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-    ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)&nbsp; \
-    ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)&nbsp;
+    ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)&nbsp;
+    ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)&nbsp;  \
     ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)&nbsp;
     ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)&nbsp;
     ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)&nbsp;
