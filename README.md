@@ -2,6 +2,7 @@
 
 ### 👨‍💻 &nbsp;My Profile (Click!)
 
+<a href="https://velog.io/@sbzkdl/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Notion&logoColor=white"/></a>&nbsp;
 <a href="https://tropical-swordfish-423.notion.site/5331a07a952548b4b64ee5b91e23913f"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/sbzkdl"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>&nbsp;
 
